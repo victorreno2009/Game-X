@@ -16,6 +16,7 @@ _global_script_class_icons={
 [application]
 
 config/name="Gameficação"
+run/main_scene="res://Map1.tscn"
 config/icon="res://Others/icon.png"
 
 [input]
